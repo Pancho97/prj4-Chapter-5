@@ -1,4 +1,7 @@
 @charset "utf-8";
+/*
+font-family: 'Open Sans Condensed', sans-serif; body type
+*/
 
 body {
 	background-color: antiquewhite;
@@ -11,4 +14,19 @@ h1 {
 
 .my-carousel {
 	max-width: 600px;
+}
+
+.my-image {
+	min-width: 400px
+}
+
+.my-class {
+    color: red;
+    border: 1px solid blue;
+    background-color: lightblue;
+    padding-top: 0.5em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    padding-bottom: 0.5em;
+	text-align: center;
 }
