@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body {
+	background-color: antiquewhite;
+      color: #BFB7B7
+}
+
+h1 {
+	color: inherit;
+}
+
+.my-carousel {
+	max-width: 600px;
+}
